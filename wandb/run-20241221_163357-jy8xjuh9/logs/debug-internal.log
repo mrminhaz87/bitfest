@@ -1,0 +1,16 @@
+{"time":"2024-12-21T16:33:57.90991954+03:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-21T16:33:57.909928308+03:00","level":"INFO","msg":"created symlink","path":"/home/rtx3090/minhaz/projects/bitfest/wandb/run-20241221_163357-jy8xjuh9/logs/debug-core.log"}
+{"time":"2024-12-21T16:33:58.012151328+03:00","level":"INFO","msg":"created new stream","id":"jy8xjuh9"}
+{"time":"2024-12-21T16:33:58.012171596+03:00","level":"INFO","msg":"stream: started","id":"jy8xjuh9"}
+{"time":"2024-12-21T16:33:58.012181539+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"jy8xjuh9"}
+{"time":"2024-12-21T16:33:58.012230992+03:00","level":"INFO","msg":"handler: started","stream_id":"jy8xjuh9"}
+{"time":"2024-12-21T16:33:58.012228489+03:00","level":"INFO","msg":"sender: started","stream_id":"jy8xjuh9"}
+{"time":"2024-12-21T16:33:58.532478754+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-21T16:34:03.088175018+03:00","level":"INFO","msg":"stream: closing","id":"jy8xjuh9"}
+{"time":"2024-12-21T16:34:03.088218054+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-21T16:34:03.088810773+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-21T16:34:04.045082429+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-21T16:34:04.574661194+03:00","level":"INFO","msg":"handler: closed","stream_id":"jy8xjuh9"}
+{"time":"2024-12-21T16:34:04.574679899+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jy8xjuh9"}
+{"time":"2024-12-21T16:34:04.574735919+03:00","level":"INFO","msg":"sender: closed","stream_id":"jy8xjuh9"}
+{"time":"2024-12-21T16:34:04.574745507+03:00","level":"INFO","msg":"stream: closed","id":"jy8xjuh9"}
