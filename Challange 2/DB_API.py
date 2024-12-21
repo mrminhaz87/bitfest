@@ -4,12 +4,17 @@ from typing import List, Optional
 import sqlite3
 from datetime import datetime
 import uvicorn
-import pytesseract
 from PIL import Image
+import easyocr
+import numpy as np
 import io
 import os
+import re
 
 app = FastAPI(title="Kitchen Inventory & Recipe Manager")
+
+# Initialize EasyOCR reader (it will download the model on first run)
+reader = easyocr.Reader(['en'])
 
 # Pydantic models for request validation
 class Ingredient(BaseModel):
@@ -27,15 +32,46 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row
     return conn
 
+def get_next_recipe_number():
+    """Get the next recipe number by reading the existing file"""
+    if not os.path.exists("my_fav_recipes.txt"):
+        return 1
+        
+    with open("my_fav_recipes.txt", "r", encoding='utf-8') as file:
+        content = file.read()
+        # Find all recipe numbers using regex
+        recipe_numbers = re.findall(r'Recipe no\. (\d+)', content)
+        if recipe_numbers:
+            # Convert found numbers to integers and get the maximum
+            return max(map(int, recipe_numbers)) + 1
+        return 1
+
+def extract_text_from_image(image):
+    """Extract text from image using EasyOCR"""
+    image_np = np.array(image)
+    results = reader.readtext(image_np)
+    
+    text_blocks = []
+    for detection in results:
+        text = detection[1]
+        confidence = detection[2]
+        
+        if confidence > 0.2:
+            text_blocks.append(text)
+    
+    return '\n'.join(text_blocks)
+
 def append_to_recipes_file(recipe_text: str):
-    """Append new recipe to my_fav_recipes.txt"""
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    recipe_entry = f"\n\n=== Recipe added on {timestamp} ===\n{recipe_text}\n"
+    """Append new recipe to my_fav_recipes.txt with incremental numbering"""
+    recipe_number = get_next_recipe_number()
+    recipe_entry = f"\n\n=== Recipe no. {recipe_number} ===\n{recipe_text}\n"
     
     with open("my_fav_recipes.txt", "a", encoding='utf-8') as file:
         file.write(recipe_entry)
+    
+    return recipe_number
 
-# Ingredient Management APIs
+# [Previous ingredient management APIs remain the same]
 @app.post("/ingredients/", response_model=dict)
 async def add_ingredient(ingredient: Ingredient):
     """Add a new ingredient to the inventory"""
@@ -139,34 +175,48 @@ async def delete_ingredient(ingredient_id: int):
 async def add_recipe_text(recipe_text: str):
     """Add a new recipe from text"""
     try:
-        append_to_recipes_file(recipe_text)
-        return {"message": "Recipe added successfully"}
+        recipe_number = append_to_recipes_file(recipe_text)
+        return {
+            "message": "Recipe added successfully",
+            "recipe_number": recipe_number
+        }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to add recipe: {str(e)}")
 
 @app.post("/recipes/image/", response_model=dict)
 async def add_recipe_image(file: UploadFile = File(...)):
-    """Add a new recipe from an image using OCR"""
+    """Add a new recipe from an image using EasyOCR"""
     try:
-        # Read and process the image
+        # Read the image
         contents = await file.read()
         image = Image.open(io.BytesIO(contents))
         
-        # Perform OCR
-        recipe_text = pytesseract.image_to_string(image)
+        # Convert to RGB if necessary
+        if image.mode != 'RGB':
+            image = image.convert('RGB')
+        
+        # Extract text using EasyOCR
+        recipe_text = extract_text_from_image(image)
         
         if not recipe_text.strip():
-            raise HTTPException(status_code=400, detail="Could not extract text from image")
+            raise HTTPException(
+                status_code=400, 
+                detail="Could not extract text from image. Please try with a clearer image."
+            )
         
-        # Add extracted text to recipes file
-        append_to_recipes_file(recipe_text)
+        # Add extracted text to recipes file and get recipe number
+        recipe_number = append_to_recipes_file(recipe_text)
         
         return {
             "message": "Recipe extracted and added successfully",
+            "recipe_number": recipe_number,
             "extracted_text": recipe_text
         }
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to process recipe image: {str(e)}")
+        raise HTTPException(
+            status_code=500, 
+            detail=f"Failed to process recipe image: {str(e)}"
+        )
 
 if __name__ == "__main__":
     # Ensure recipes file exists

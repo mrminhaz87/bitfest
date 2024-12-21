@@ -1,92 +1,98 @@
-=== My Favorite Recipes ===
+=== Recipe no. 1 ===
+## Chicken Biryani Cuisine Type: Indian Taste: Spicy, Savory Preparation Time: 60 minutes Reviews: 4.8/5 (256 reviews) Ingredients: - Basmati rice (2 cups) - Chicken thighs (500g) - Onions (2 large) - Yogurt (1 cup) - Ginger paste (2 tbsp) - Garlic paste (2 tbsp) - Biryani masala (3 tbsp) Instructions: 1. Marinate chicken with yogurt and spices 2. Cook rice separately until 70% done 3. Layer rice and chicken in a pot 4. Cook on low heat for 20 minutes Tags: main course, rice dish, party favorite
 
 
-=== Recipe added on 2024-12-21 16:28:22 ===
-This is recipe 1
+=== Recipe no. 2 ===
+## Chocolate Chip Cookies Cuisine Type: American Taste: Sweet, Buttery Preparation Time: 30 minutes Reviews: 4.9/5 (342 reviews) Ingredients: - All-purpose flour (2.25 cups) - Butter (1 cup) - Brown sugar (3/4 cup) - White sugar (3/4 cup) - Chocolate chips (2 cups) - Eggs (2) - Vanilla extract (1 tsp) Instructions: 1. Cream butter and sugars 2. Add eggs and vanilla 3. Mix in dry ingredients 4. Fold in chocolate chips 5. Bake at 375°F for 10 minutes Tags: dessert, baking, crowd pleaser
 
 
-=== Recipe added on 2024-12-21 16:28:23 ===
-This is recipe 1
+=== Recipe no. 3 ===
+## Thai Green Curry Cuisine Type: Thai Taste: Spicy, Creamy, Sweet Preparation Time: 45 minutes Reviews: 4.7/5 (189 reviews) Ingredients: - Coconut milk (2 cans) - Green curry paste (3 tbsp) - Chicken breast (400g) - Thai eggplants (200g) - Bamboo shoots (1 can) - Fish sauce (2 tbsp) - Palm sugar (1 tbsp) Instructions: 1. Heat coconut cream until oil separates 2. Fry curry paste until fragrant 3. Add remaining ingredients 4. Simmer until chicken is cooked Tags: main course, curry, spicy food
 
 
-=== Recipe added on 2024-12-21 16:32:06 ===
-OO crecre ta)
+=== Recipe no. 4 ===
+## Classic Tiramisu Cuisine Type: Italian Taste: Sweet, Coffee, Creamy Preparation Time: 40 minutes (plus 4 hours chilling) Reviews: 4.9/5 (278 reviews) Ingredients: - Mascarpone cheese (500g) - Ladyfinger cookies (24 pieces) - Strong coffee (2 cups) - Eggs (6) - Sugar (3/4 cup) - Cocoa powder (for dusting) Instructions: 1. Make coffee and let it cool 2. Beat egg yolks with sugar 3. Fold in mascarpone 4. Dip ladyfingers in coffee 5. Layer and chill Tags: dessert, no-bake, Italian classic
 
- 
 
-Rest ac
+=== Recipe no. 5 ===
+## Vegetable Stir Fry Cuisine Type: Chinese Taste: Savory, Umami Preparation Time: 20 minutes Reviews: 4.5/5 (167 reviews) Ingredients: - Mixed vegetables (4 cups) - Tofu (400g) - Soy sauce (3 tbsp) - Sesame oil (1 tbsp) - Garlic (4 cloves) - Ginger (1 tbsp) Instructions: 1. Press and cube tofu 2. Stir fry vegetables 3. Add sauce and seasonings 4. Combine all ingredients Tags: vegetarian, quick meal, healthy
 
-Best aes
 
-aro
+=== Recipe no. 6 ===
+## Sushi Roll Cuisine Type: Japanese Taste: Umami, Fresh Preparation Time: 45 minutes Reviews: 4.6/5 (198 reviews) Ingredients: - Sushi rice (2 cups) - Nori sheets (5) - Salmon/tuna (200g) - Cucumber (1) - Avocado (1) - Rice vinegar (3 tbsp) - Wasabi (to taste) - Soy sauce (for serving) Instructions: 1. Cook and season sushi rice 2. Prepare fillings 3. Roll with bamboo mat 4. Cut into pieces Tags: seafood, raw fish, Japanese specialty
 
-Be arc
 
- 
+=== Recipe no. 7 ===
+## Butter Chicken Cuisine Type: Indian Taste: Rich, Creamy, Mildly Spiced Preparation Time: 50 minutes Reviews: 4.9/5 (423 reviews) Ingredients: - Chicken thighs (800g) - Tomato puree (2 cups) - Heavy cream (1 cup) - Butter (1/2 cup) - Garam masala (2 tbsp) - Kasuri methi (1 tbsp) - Honey (1 tbsp) Instructions: 1. Marinate chicken in spiced yogurt 2. Grill or bake chicken 3. Prepare creamy tomato sauce 4. Combine and simmer Tags: curry, crowd favorite, rich dish
 
- 
 
- 
+=== Recipe no. 8 ===
+## Mediterranean Quinoa Salad Cuisine Type: Mediterranean Taste: Fresh, Tangy, Light Preparation Time: 25 minutes Reviews: 4.7/5 (156 reviews) Ingredients: - Quinoa (1 cup) - Cherry tomatoes (1 cup) - Cucumber (1) - Kalamata olives (1/2 cup) - Feta cheese (200g) - Red onion (1/2) - Olive oil (1/4 cup) - Lemon juice (2 tbsp) Instructions: 1. Cook quinoa and cool 2. Chop vegetables 3. Mix ingredients 4. Dress and season Tags: healthy, vegetarian, meal prep friendly
 
- 
 
- 
+=== Recipe no. 9 ===
+## Belgian Waffles Cuisine Type: Belgian Taste: Sweet, Buttery, Crispy Preparation Time: 30 minutes Reviews: 4.8/5 (289 reviews) Ingredients: - All-purpose flour (2 cups) - Active dry yeast (1 packet) - Milk (1.5 cups) - Eggs (2) - Butter (1/2 cup) - Pearl sugar (3/4 cup) - Vanilla extract (1 tsp) Instructions: 1. Prepare yeast mixture 2. Mix wet and dry ingredients 3. Let dough rise 4. Cook in waffle iron Tags: breakfast, dessert, weekend brunch
 
-i
-PCat at 21m
 
-sera ae)
-cree eee)
+=== Recipe no. 10 ===
+## Tasty Sweets Type: Thai Taste: Sweet, Sour, Nutty Preparation Time: 35 minutes Reviews: 4.7/5 (312 reviews) Ingredients: - Rice (100g) - Shrimp (200g) - Milk (200ml) Instructions: 1. Add rice 2. Eat Rice 3. Tasty eating rice 4. Combine and garnish Tags: noodles, street food, Thai classic
 
-Peres Races testy
-Pest ected
 
-Pres ata teed
+=== Recipe no. 11 ===
+## Beef Bourguignon Cuisine Type: French Taste: Rich, Savory, Wine-infused Preparation Time: 3 hours Reviews: 4.9/5 (267 reviews) Ingredients: - Beef chuck (1kg) - Red wine (750ml) - Pearl onions (500g) - Mushrooms (400g) - Bacon lardons (200g) - Carrots (3 large) - Fresh thyme (1 bunch) - Bay leaves (2) Instructions: 1. Brown meat in batches 2. Cook bacon and vegetables 3. Simmer in wine sauce 4. Braise until tender Tags: slow cook, winter dish, French classic
 
-cere eects Cum ed
-Poets Raa]
-Serer Recerca
-Presa ete) Cum ci
 
- 
+=== Recipe no. 12 ===
+## Beef Bourguignon Cuisine Type: French Taste: Rich, Savory, Wine-infused Preparation Time: 3 hours Reviews: 4.9/5 (267 reviews) Ingredients: - Beef chuck (1kg) - Red wine (750ml) - Pearl onions (500g) - Mushrooms (400g) - Bacon lardons (200g) - Carrots (3 large) - Fresh thyme (1 bunch) - Bay leaves (2) Instructions: 1. Brown meat in batches 2. Cook bacon and vegetables 3. Simmer in wine sauce 4. Braise until tender Tags: slow cook, winter dish, French classic
 
-i
-Estos a)
 
- 
+=== Recipe no. 13 ===
+## Beef Bourguignon Cuisine Type: French Taste: Rich, Savory, Wine-infused Preparation Time: 3 hours Reviews: 4.9/5 (267 reviews) Ingredients: - Beef chuck (1kg) - Red wine (750ml) - Pearl onions (500g) - Mushrooms (400g) - Bacon lardons (200g) - Carrots (3 large) - Fresh thyme (1 bunch) - Bay leaves (2) Instructions: 1. Brown meat in batches 2. Cook bacon and vegetables 3. Simmer in wine sauce 4. Braise until tender Tags: slow cook, winter dish, French classic
 
-———
 
- 
+=== Recipe no. 14 ===
+## Mango Sticky Rice Cuisine Type: Thai Taste: Sweet, Creamy, Tropical Preparation Time: 45 minutes Reviews: 4.8/5 (234 reviews) Ingredients: - Sticky rice (2 cups) - Coconut milk (2 cups) - Ripe mangoes (2) - Palm sugar (1/4 cup) - Salt (1/4 tsp) - Toasted sesame seeds Instructions: 1. Soak and steam sticky rice 2. Prepare coconut sauce 3. Slice mangoes 4. Assemble and garnish Tags: dessert, tropical, traditional
 
- 
 
- 
+=== Recipe no. 15 ===
+ ## Shakshuka Cuisine Type: Middle Eastern Taste: Spicy, Savory, Rich Preparation Time: 35 minutes Reviews: 4.7/5 (189 reviews) Ingredients: - Eggs (6) - Tomatoes (800g) - Bell peppers (2) - Onions (2) - Cumin (2 tsp) - Paprika (1 tbsp) - Fresh parsley - Feta cheese (optional) Instructions: 1. Make tomato sauce base 2. Add spices and simmer 3. Create wells for eggs 4. Bake until eggs set Tags: breakfast, brunch, vegetarian
 
- 
 
- 
+=== Recipe no. 16 ===
+## Pho Bo Cuisine Type: Vietnamese Taste: Umami, Aromatic, Hearty Preparation Time: 6 hours Reviews: 4.9/5 (445 reviews) Ingredients: - Beef bones (2kg) - Rice noodles (500g) - Bean sprouts (200g) - Star anise (3) - Cinnamon stick (1) - Ginger (100g) - Fish sauce (3 tbsp) - Fresh herbs (basil, mint) Instructions: 1. Make bone broth 2. Prepare aromatics 3. Cook noodles 4. Assemble bowls Tags: soup, comfort food, traditional
 
-Rascal ey for one ecole Pare me
-a
-ca
-recta cuca
-Sst ar
-Ses SSeS Ur rete
 
-Rast eet)
+=== Recipe no. 17 ===
+## Black Forest Cake Cuisine Type: German Taste: Sweet, Rich, Cherry Preparation Time: 90 minutes Reviews: 4.8/5 (312 reviews) Ingredients: - Dark chocolate (200g) - Fresh cherries (500g) - Heavy cream (500ml) - Eggs (6) - Kirsch (60ml) - Sugar (300g) - Flour (250g) - Cocoa powder (50g) Instructions: 1. Bake chocolate layers 2. Prepare cherry filling 3. Whip cream 4. Layer and decorate Tags: dessert, celebration cake, classic
 
- 
 
- 
+=== Recipe no. 18 ===
+# Vegetable Momos Cuisine Type: Nepali/Tibetan Taste: Savory, Spicy Preparation Time: 60 minutes Reviews: 4.6/5 (178 reviews) Ingredients: - All-purpose flour (2 cups) - Cabbage (1 small) - Carrots (2) - Mushrooms (200g) - Ginger (2 tbsp) - Garlic (4 cloves) - Spring onions (1 bunch) Instructions: 1. Make dough 2. Prepare filling 3. Shape dumplings 4. Steam until done Tags: dumplings, appetizer, vegetarian
 
- 
 
- 
+=== Recipe no. 19 ===
+## Paella Valenciana Cuisine Type: Spanish Taste: Saffron-infused, Rich, Complex Preparation Time: 75 minutes Reviews: 4.8/5 (289 reviews) Ingredients: - Bomba rice (2 cups) - Chicken thighs (500g) - Rabbit (300g) - Green beans (200g) - Saffron threads - Paprika (1 tbsp) - Rosemary sprigs - Lemon wedges Instructions: 1. Brown meats 2. Toast rice 3. Add broth and saffron 4. Cook until socarrat forms Tags: rice dish, traditional, Sunday meal
 
- 
 
- 
+=== Recipe no. 20 ===
+ ## Ilish Bhapa Cuisine Type: Bengali Taste: Rich, Spicy, Mustard-flavored Preparation Time: 45 minutes Reviews: 4.9/5 (345 reviews) Ingredients: - Hilsa fish steaks (500g) - Mustard paste (4 tbsp) - Mustard oil (3 tbsp) - Green chilies (4-5) - Turmeric powder (1 tsp) - Coconut paste (2 tbsp) - Salt to taste Instructions: 1. Marinate fish with turmeric and salt 2. Make mustard-coconut paste 3. Steam in banana leaf 4. Garnish with green chilies Tags: fish, traditional Bengali, special occasion
 
- 
-
+
+=== Recipe no. 21 ===
+## Shorshe Bata Maach Cuisine Type: Bengali Taste: Spicy, Pungent, Rich Preparation Time: 40 minutes Reviews: 4.8/5 (289 reviews) Ingredients: - Rohu fish (500g) - Black mustard paste (3 tbsp) - Mustard oil (4 tbsp) - Green chilies (5-6) - Turmeric powder (1 tsp) - Posto/poppy seeds (2 tbsp) Instructions: 1. Marinate fish 2. Prepare mustard gravy 3. Cook until tender 4. Finish with raw mustard oil Tags: fish curry, everyday meal, traditional
+
+
+=== Recipe no. 22 ===
+## Chingri Malai Curry Cuisine Type: Bengali Taste: Creamy, Coconutty, Mildly Spiced Preparation Time: 50 minutes Reviews: 4.9/5 (412 reviews) Ingredients: - Large prawns (500g) - Coconut milk (400ml) - Ginger paste (2 tbsp) - Green chilies (3-4) - Garam masala (1 tsp) - Sugar (1/2 tsp) Instructions: 1. Clean and devein prawns 2. Make coconut gravy 3. Simmer until done 4. Garnish with cream Tags: prawn curry, special dish, party favorite
+
+
+=== Recipe no. 23 ===
+## Kosha Mangsho Cuisine Type: Bengali Taste: Spicy, Rich, Complex Preparation Time: 90 minutes Reviews: 4.9/5 (467 reviews) Ingredients: - Mutton (1kg) - Onions (4 large) - Ginger-garlic paste (4 tbsp) - Yogurt (1/2 cup) - Garam masala (2 tsp) - Mustard oil (5 tbsp) Instructions: 1. Marinate mutton 2. Brown onions until dark 3. Slow cook until tender 4. Reduce gravy Tags: mutton curry, Sunday special, party dish
+
+
+=== Recipe no. 24 ===
+## Cholar Dal Cuisine Type: Bengali Taste: Mildly Sweet, Aromatic Preparation Time: 40 minutes Reviews: 4.7/5 (234 reviews) Ingredients: - Chana dal (2 cups) - Coconut pieces (1/4 cup) - Bay leaves (2) - Ginger (2 inch) - Green chilies (2-3) - Ghee (3 tbsp) Instructions: 1. Cook dal until soft 2. Temper with spices 3. Add coconut 4. Finish with ghee Tags: vegetarian, everyday dal, traditional
+
+
+=== Recipe no. 25 ===
+# Mishti Doi Cuisine Type: Bengali Taste: Sweet, Fermented, Caramelized Preparation Time: 30 minutes (plus 8 hours setting) Reviews: 4.9/5 (523 reviews) Ingredients: - Full fat milk (1 liter) - Date palm jaggery (200g) - Yogurt starter (2 tbsp) - Cardamom powder (1/4 tsp) Instructions: 1. Reduce milk 2. Mix with jaggery 3. Add starter 4. Set in earthen pots Tags: dessert, fermented, traditional sweet
